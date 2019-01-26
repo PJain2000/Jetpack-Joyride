@@ -32,9 +32,9 @@ external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/bt
  ../external/bullet-2.81-rev2613/src/LinearMath/btScalar.h
  ../external/bullet-2.81-rev2613/src/LinearMath/btTransform.h
  ../external/bullet-2.81-rev2613/src/LinearMath/btVector3.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btDefaultSoftBodySolver.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btDefaultSoftBodySolver.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodySolverVertexBuffer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btDefaultSoftBodySolver.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btDefaultSoftBodySolver.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodySolverVertexBuffer.h
 external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/btSoftBody.cpp.o
  ../external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
  ../external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
@@ -77,11 +77,11 @@ external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/bt
  ../external/bullet-2.81-rev2613/src/LinearMath/btTransform.h
  ../external/bullet-2.81-rev2613/src/LinearMath/btTransformUtil.h
  ../external/bullet-2.81-rev2613/src/LinearMath/btVector3.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBody.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBody.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyData.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyInternals.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSparseSDF.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBody.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBody.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyData.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyInternals.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSparseSDF.h
 external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/btSoftBodyConcaveCollisionAlgorithm.cpp.o
  ../external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
  ../external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
@@ -132,8 +132,8 @@ external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/bt
  ../external/bullet-2.81-rev2613/src/LinearMath/btTransform.h
  ../external/bullet-2.81-rev2613/src/LinearMath/btTransformUtil.h
  ../external/bullet-2.81-rev2613/src/LinearMath/btVector3.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.h
 external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/btSoftBodyHelpers.cpp.o
  ../external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
  ../external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
@@ -172,11 +172,11 @@ external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/bt
  ../external/bullet-2.81-rev2613/src/LinearMath/btTransform.h
  ../external/bullet-2.81-rev2613/src/LinearMath/btTransformUtil.h
  ../external/bullet-2.81-rev2613/src/LinearMath/btVector3.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBody.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyHelpers.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyHelpers.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyInternals.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSparseSDF.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBody.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyHelpers.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyHelpers.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyInternals.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSparseSDF.h
 external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/btSoftBodyRigidBodyCollisionConfiguration.cpp.o
  ../external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
  ../external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
@@ -207,11 +207,11 @@ external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/bt
  ../external/bullet-2.81-rev2613/src/LinearMath/btTransform.h
  ../external/bullet-2.81-rev2613/src/LinearMath/btTransformUtil.h
  ../external/bullet-2.81-rev2613/src/LinearMath/btVector3.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.h
 external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/btSoftRigidCollisionAlgorithm.cpp.o
  ../external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
  ../external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h
@@ -252,10 +252,10 @@ external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/bt
  ../external/bullet-2.81-rev2613/src/LinearMath/btTransform.h
  ../external/bullet-2.81-rev2613/src/LinearMath/btTransformUtil.h
  ../external/bullet-2.81-rev2613/src/LinearMath/btVector3.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBody.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSparseSDF.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBody.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSparseSDF.h
 external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/btSoftRigidDynamicsWorld.cpp.o
  ../external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
  ../external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
@@ -302,14 +302,14 @@ external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/bt
  ../external/bullet-2.81-rev2613/src/LinearMath/btTransform.h
  ../external/bullet-2.81-rev2613/src/LinearMath/btTransformUtil.h
  ../external/bullet-2.81-rev2613/src/LinearMath/btVector3.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btDefaultSoftBodySolver.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBody.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyHelpers.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodySolverVertexBuffer.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodySolvers.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftRigidDynamicsWorld.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSparseSDF.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btDefaultSoftBodySolver.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBody.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodyHelpers.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodySolverVertexBuffer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodySolvers.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftRigidDynamicsWorld.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSparseSDF.h
 external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/btSoftSoftCollisionAlgorithm.cpp.o
  ../external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
  ../external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h
@@ -349,7 +349,7 @@ external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/bt
  ../external/bullet-2.81-rev2613/src/LinearMath/btTransform.h
  ../external/bullet-2.81-rev2613/src/LinearMath/btTransformUtil.h
  ../external/bullet-2.81-rev2613/src/LinearMath/btVector3.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBody.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/bullet-2.81-rev2613/src/BulletSoftBody/btSparseSDF.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBody.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/bullet-2.81-rev2613/src/BulletSoftBody/btSparseSDF.h

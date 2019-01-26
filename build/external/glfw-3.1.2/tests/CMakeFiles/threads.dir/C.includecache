@@ -68,9 +68,9 @@ GL/glext.h
 GL/glu.h
 -
 
-/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/deps/tinycthread.c
+/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/deps/tinycthread.c
 tinycthread.h
-/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/deps/tinycthread.h
+/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/deps/tinycthread.h
 stdlib.h
 -
 signal.h
@@ -88,7 +88,7 @@ process.h
 sys/timeb.h
 -
 
-/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/deps/tinycthread.h
+/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/deps/tinycthread.h
 time.h
 -
 pthread.h
@@ -96,9 +96,9 @@ pthread.h
 windows.h
 -
 
-/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/tests/threads.c
+/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/tests/threads.c
 tinycthread.h
-/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/tests/tinycthread.h
+/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/tests/tinycthread.h
 GLFW/glfw3.h
 -
 stdio.h

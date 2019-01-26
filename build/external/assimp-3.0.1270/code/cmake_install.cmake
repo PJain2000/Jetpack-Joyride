@@ -1,4 +1,4 @@
-# Install script for directory: /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code
+# Install script for directory: /Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -33,7 +33,7 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xlibassimp3.0-r1270-OGLtutsx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/assimp-3.0.1270/code/libassimp.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/assimp-3.0.1270/code/libassimp.a")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libassimp.a" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libassimp.a")
     execute_process(COMMAND "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libassimp.a")
@@ -50,45 +50,45 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
 file(INSTALL DESTINATION "/assimp" TYPE FILE FILES
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/anim.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/ai_assert.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/camera.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/color4.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/color4.inl"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/config.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/defs.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/cfileio.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/light.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/material.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/material.inl"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/matrix3x3.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/matrix3x3.inl"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/matrix4x4.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/matrix4x4.inl"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/mesh.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/postprocess.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/quaternion.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/quaternion.inl"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/scene.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/texture.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/types.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/vector2.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/vector2.inl"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/vector3.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/vector3.inl"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/version.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/cimport.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/importerdesc.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/Importer.hpp"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/DefaultLogger.hpp"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/ProgressHandler.hpp"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/IOStream.hpp"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/IOSystem.hpp"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/Logger.hpp"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/LogStream.hpp"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/NullLogger.hpp"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/cexport.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/Exporter.hpp"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/anim.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/ai_assert.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/camera.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/color4.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/color4.inl"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/config.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/defs.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/cfileio.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/light.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/material.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/material.inl"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/matrix3x3.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/matrix3x3.inl"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/matrix4x4.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/matrix4x4.inl"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/mesh.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/postprocess.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/quaternion.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/quaternion.inl"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/scene.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/texture.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/types.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/vector2.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/vector2.inl"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/vector3.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/vector3.inl"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/version.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/cimport.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/importerdesc.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/Importer.hpp"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/DefaultLogger.hpp"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/ProgressHandler.hpp"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/IOStream.hpp"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/IOSystem.hpp"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/Logger.hpp"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/LogStream.hpp"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/NullLogger.hpp"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/cexport.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/Exporter.hpp"
     )
 endif()
 
@@ -102,9 +102,9 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
 file(INSTALL DESTINATION "/assimp/Compiler" TYPE FILE FILES
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/Compiler/pushpack1.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/../include/assimp/Compiler/poppack1.h"
-    "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/code/pstdint.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/Compiler/pushpack1.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/../include/assimp/Compiler/poppack1.h"
+    "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/code/pstdint.h"
     )
 endif()
 

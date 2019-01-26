@@ -1,4 +1,4 @@
-# Install script for directory: /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/tests
+# Install script for directory: /Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/tests
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

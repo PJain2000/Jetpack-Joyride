@@ -43,10 +43,10 @@ RM = /usr/local/Cellar/cmake/3.13.2/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate"
+CMAKE_SOURCE_DIR = /Users/praffullittjain/Desktop/Jetpack-Joyride
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build"
+CMAKE_BINARY_DIR = /Users/praffullittjain/Desktop/Jetpack-Joyride/build
 
 # Include any dependencies generated for this target.
 include external/glfw-3.1.2/examples/CMakeFiles/wave.dir/depend.make
@@ -59,16 +59,16 @@ include external/glfw-3.1.2/examples/CMakeFiles/wave.dir/flags.make
 
 external/glfw-3.1.2/examples/CMakeFiles/wave.dir/wave.c.o: external/glfw-3.1.2/examples/CMakeFiles/wave.dir/flags.make
 external/glfw-3.1.2/examples/CMakeFiles/wave.dir/wave.c.o: ../external/glfw-3.1.2/examples/wave.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object external/glfw-3.1.2/examples/CMakeFiles/wave.dir/wave.c.o"
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2/examples" && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/wave.dir/wave.c.o   -c "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/examples/wave.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object external/glfw-3.1.2/examples/CMakeFiles/wave.dir/wave.c.o"
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2/examples && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/wave.dir/wave.c.o   -c /Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/examples/wave.c
 
 external/glfw-3.1.2/examples/CMakeFiles/wave.dir/wave.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/wave.dir/wave.c.i"
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2/examples" && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/examples/wave.c" > CMakeFiles/wave.dir/wave.c.i
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2/examples && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/examples/wave.c > CMakeFiles/wave.dir/wave.c.i
 
 external/glfw-3.1.2/examples/CMakeFiles/wave.dir/wave.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/wave.dir/wave.c.s"
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2/examples" && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/examples/wave.c" -o CMakeFiles/wave.dir/wave.c.s
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2/examples && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/examples/wave.c -o CMakeFiles/wave.dir/wave.c.s
 
 # Object files for target wave
 wave_OBJECTS = \
@@ -81,8 +81,8 @@ external/glfw-3.1.2/examples/wave.app/Contents/MacOS/wave: external/glfw-3.1.2/e
 external/glfw-3.1.2/examples/wave.app/Contents/MacOS/wave: external/glfw-3.1.2/examples/CMakeFiles/wave.dir/build.make
 external/glfw-3.1.2/examples/wave.app/Contents/MacOS/wave: external/glfw-3.1.2/src/libglfw3.a
 external/glfw-3.1.2/examples/wave.app/Contents/MacOS/wave: external/glfw-3.1.2/examples/CMakeFiles/wave.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable wave.app/Contents/MacOS/wave"
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2/examples" && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/wave.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable wave.app/Contents/MacOS/wave"
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2/examples && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/wave.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 external/glfw-3.1.2/examples/CMakeFiles/wave.dir/build: external/glfw-3.1.2/examples/wave.app/Contents/MacOS/wave
@@ -90,10 +90,10 @@ external/glfw-3.1.2/examples/CMakeFiles/wave.dir/build: external/glfw-3.1.2/exam
 .PHONY : external/glfw-3.1.2/examples/CMakeFiles/wave.dir/build
 
 external/glfw-3.1.2/examples/CMakeFiles/wave.dir/clean:
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2/examples" && $(CMAKE_COMMAND) -P CMakeFiles/wave.dir/cmake_clean.cmake
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2/examples && $(CMAKE_COMMAND) -P CMakeFiles/wave.dir/cmake_clean.cmake
 .PHONY : external/glfw-3.1.2/examples/CMakeFiles/wave.dir/clean
 
 external/glfw-3.1.2/examples/CMakeFiles/wave.dir/depend:
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/examples" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2/examples" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2/examples/CMakeFiles/wave.dir/DependInfo.cmake" --color=$(COLOR)
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/praffullittjain/Desktop/Jetpack-Joyride /Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/examples /Users/praffullittjain/Desktop/Jetpack-Joyride/build /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2/examples /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2/examples/CMakeFiles/wave.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : external/glfw-3.1.2/examples/CMakeFiles/wave.dir/depend
 

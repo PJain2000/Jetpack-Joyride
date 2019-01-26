@@ -4,27 +4,27 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/ball.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/ball.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/balloon.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/balloon.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/beams.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/beams.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/boomerang.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/boomerang.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/coin.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/coin.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/color.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/color.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/display.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/display.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/dragon.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/dragon.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/flying1.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/flying1.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/flying2.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/flying2.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/gem.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/gem.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/iceball.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/iceball.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/input.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/input.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/lines.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/lines.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/magnet.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/magnet.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/main.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/nonedit.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/nonedit.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/other_handlers.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/other_handlers.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/semicircle.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/semicircle.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/timer.cpp.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/world.cpp" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/graphics_asgn1.dir/src/world.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/ball.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/ball.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/balloon.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/balloon.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/beams.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/beams.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/boomerang.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/boomerang.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/coin.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/coin.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/color.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/color.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/display.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/display.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/dragon.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/dragon.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/flying1.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/flying1.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/flying2.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/flying2.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/gem.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/gem.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/iceball.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/iceball.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/input.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/input.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/lines.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/lines.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/magnet.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/magnet.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/main.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/nonedit.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/nonedit.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/other_handlers.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/other_handlers.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/semicircle.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/semicircle.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/timer.cpp.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/src/world.cpp" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/graphics_asgn1.dir/src/world.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 
@@ -52,8 +52,8 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2/src/CMakeFiles/glfw.dir/DependInfo.cmake"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/CMakeFiles/GLEW_1130.dir/DependInfo.cmake"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2/src/CMakeFiles/glfw.dir/DependInfo.cmake"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/CMakeFiles/GLEW_1130.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

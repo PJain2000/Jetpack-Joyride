@@ -48,10 +48,10 @@ RM = /usr/local/Cellar/cmake/3.13.2/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate"
+CMAKE_SOURCE_DIR = /Users/praffullittjain/Desktop/Jetpack-Joyride
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build"
+CMAKE_BINARY_DIR = /Users/praffullittjain/Desktop/Jetpack-Joyride/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,9 +126,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles /Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/deps/getopt.c" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2/tests/CMakeFiles/monitors.dir/__/deps/getopt.c.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/tests/monitors.c" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2/tests/CMakeFiles/monitors.dir/monitors.c.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/deps/getopt.c" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2/tests/CMakeFiles/monitors.dir/__/deps/getopt.c.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/tests/monitors.c" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2/tests/CMakeFiles/monitors.dir/monitors.c.o"
   )
 set(CMAKE_C_COMPILER_ID "Clang")
 
@@ -26,7 +26,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2/src/CMakeFiles/glfw.dir/DependInfo.cmake"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2/src/CMakeFiles/glfw.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

@@ -6,5 +6,5 @@ C_FLAGS =  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX
 
 C_DEFINES = -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H
 
-C_INCLUDES = -I"/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/src" -I"/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2/src" 
+C_INCLUDES = -I/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/src -I/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2/src 
 

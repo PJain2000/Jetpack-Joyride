@@ -43,10 +43,10 @@ RM = /usr/local/Cellar/cmake/3.13.2/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate"
+CMAKE_SOURCE_DIR = /Users/praffullittjain/Desktop/Jetpack-Joyride
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build"
+CMAKE_BINARY_DIR = /Users/praffullittjain/Desktop/Jetpack-Joyride/build
 
 # Utility rule file for uninstall.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Grap
 include external/glfw-3.1.2/CMakeFiles/uninstall.dir/progress.make
 
 external/glfw-3.1.2/CMakeFiles/uninstall:
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2" && /usr/local/Cellar/cmake/3.13.2/bin/cmake -P /Users/praffullittjain/Semester-4/Graphics/Assignment\ 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2/cmake_uninstall.cmake
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2 && /usr/local/Cellar/cmake/3.13.2/bin/cmake -P /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2/cmake_uninstall.cmake
 
 uninstall: external/glfw-3.1.2/CMakeFiles/uninstall
 uninstall: external/glfw-3.1.2/CMakeFiles/uninstall.dir/build.make
@@ -67,10 +67,10 @@ external/glfw-3.1.2/CMakeFiles/uninstall.dir/build: uninstall
 .PHONY : external/glfw-3.1.2/CMakeFiles/uninstall.dir/build
 
 external/glfw-3.1.2/CMakeFiles/uninstall.dir/clean:
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2" && $(CMAKE_COMMAND) -P CMakeFiles/uninstall.dir/cmake_clean.cmake
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2 && $(CMAKE_COMMAND) -P CMakeFiles/uninstall.dir/cmake_clean.cmake
 .PHONY : external/glfw-3.1.2/CMakeFiles/uninstall.dir/clean
 
 external/glfw-3.1.2/CMakeFiles/uninstall.dir/depend:
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2/CMakeFiles/uninstall.dir/DependInfo.cmake" --color=$(COLOR)
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/praffullittjain/Desktop/Jetpack-Joyride /Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2 /Users/praffullittjain/Desktop/Jetpack-Joyride/build /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2 /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : external/glfw-3.1.2/CMakeFiles/uninstall.dir/depend
 

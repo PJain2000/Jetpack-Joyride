@@ -74,19 +74,19 @@ GL/glext.h
 GL/glu.h
 -
 
-/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/deps/getopt.c
+/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/deps/getopt.c
 getopt.h
-/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/deps/getopt.h
+/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/deps/getopt.h
 stddef.h
 -
 string.h
 -
 
-/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/deps/getopt.h
+/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/deps/getopt.h
 
-/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/deps/tinycthread.c
+/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/deps/tinycthread.c
 tinycthread.h
-/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/deps/tinycthread.h
+/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/deps/tinycthread.h
 stdlib.h
 -
 signal.h
@@ -104,7 +104,7 @@ process.h
 sys/timeb.h
 -
 
-/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/deps/tinycthread.h
+/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/deps/tinycthread.h
 time.h
 -
 pthread.h
@@ -112,7 +112,7 @@ pthread.h
 windows.h
 -
 
-/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/examples/particles.c
+/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/examples/particles.c
 stdlib.h
 -
 stdio.h

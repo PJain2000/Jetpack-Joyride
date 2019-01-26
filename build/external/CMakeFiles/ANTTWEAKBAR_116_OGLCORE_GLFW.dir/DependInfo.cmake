@@ -5,7 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/AntTweakBar-ObjectiveC/TwEventGLFW.m" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/TwEventGLFW.m.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/AntTweakBar-ObjectiveC/TwEventGLFW.m" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/TwEventGLFW.m.o"
   )
 set(CMAKE_C_COMPILER_ID "Clang")
 
@@ -30,15 +30,15 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "../external/bullet-2.81-rev2613/src"
   )
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/AntTweakBar-ObjectiveC/LoadOGL.mm" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/LoadOGL.mm.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/AntTweakBar-ObjectiveC/LoadOGLCore.mm" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/LoadOGLCore.mm.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/AntTweakBar-ObjectiveC/TwBar.mm" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/TwBar.mm.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/AntTweakBar-ObjectiveC/TwColors.mm" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/TwColors.mm.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/AntTweakBar-ObjectiveC/TwFonts.mm" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/TwFonts.mm.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/AntTweakBar-ObjectiveC/TwMgr.mm" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/TwMgr.mm.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/AntTweakBar-ObjectiveC/TwOpenGL.mm" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/TwOpenGL.mm.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/AntTweakBar-ObjectiveC/TwOpenGLCore.mm" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/TwOpenGLCore.mm.o"
-  "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/AntTweakBar-ObjectiveC/TwPrecomp.mm" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/TwPrecomp.mm.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/AntTweakBar-ObjectiveC/LoadOGL.mm" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/LoadOGL.mm.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/AntTweakBar-ObjectiveC/LoadOGLCore.mm" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/LoadOGLCore.mm.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/AntTweakBar-ObjectiveC/TwBar.mm" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/TwBar.mm.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/AntTweakBar-ObjectiveC/TwColors.mm" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/TwColors.mm.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/AntTweakBar-ObjectiveC/TwFonts.mm" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/TwFonts.mm.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/AntTweakBar-ObjectiveC/TwMgr.mm" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/TwMgr.mm.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/AntTweakBar-ObjectiveC/TwOpenGL.mm" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/TwOpenGL.mm.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/AntTweakBar-ObjectiveC/TwOpenGLCore.mm" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/TwOpenGLCore.mm.o"
+  "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/AntTweakBar-ObjectiveC/TwPrecomp.mm" "/Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir/AntTweakBar-ObjectiveC/TwPrecomp.mm.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

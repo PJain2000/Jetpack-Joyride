@@ -62,17 +62,17 @@ GL/glext.h
 GL/glu.h
 -
 
-/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/deps/getopt.c
+/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/deps/getopt.c
 getopt.h
-/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/deps/getopt.h
+/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/deps/getopt.h
 stddef.h
 -
 string.h
 -
 
-/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/deps/getopt.h
+/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/deps/getopt.h
 
-/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/tests/glfwinfo.c
+/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/tests/glfwinfo.c
 GLFW/glfw3.h
 -
 GL/glext.h
@@ -84,5 +84,5 @@ stdlib.h
 string.h
 -
 getopt.h
-/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/tests/getopt.h
+/Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/tests/getopt.h
 

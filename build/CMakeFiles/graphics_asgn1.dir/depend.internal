@@ -89,10 +89,10 @@ CMakeFiles/graphics_asgn1.dir/src/ball.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/ball.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/ball.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/ball.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/ball.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/balloon.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -181,10 +181,10 @@ CMakeFiles/graphics_asgn1.dir/src/balloon.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/balloon.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/balloon.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/balloon.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/balloon.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/beams.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -273,10 +273,10 @@ CMakeFiles/graphics_asgn1.dir/src/beams.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/beams.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/beams.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/beams.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/beams.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/boomerang.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -365,10 +365,10 @@ CMakeFiles/graphics_asgn1.dir/src/boomerang.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/boomerang.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/boomerang.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/boomerang.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/boomerang.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/coin.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -457,10 +457,10 @@ CMakeFiles/graphics_asgn1.dir/src/coin.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/coin.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/coin.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/coin.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/coin.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/color.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -549,9 +549,9 @@ CMakeFiles/graphics_asgn1.dir/src/color.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/color.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/color.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/display.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -640,10 +640,10 @@ CMakeFiles/graphics_asgn1.dir/src/display.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/display.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/display.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/display.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/display.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/dragon.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -732,10 +732,10 @@ CMakeFiles/graphics_asgn1.dir/src/dragon.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/dragon.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/dragon.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/dragon.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/dragon.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/flying1.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -824,10 +824,10 @@ CMakeFiles/graphics_asgn1.dir/src/flying1.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/flying1.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/flying1.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/flying1.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/flying1.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/flying2.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -916,10 +916,10 @@ CMakeFiles/graphics_asgn1.dir/src/flying2.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/flying2.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/flying2.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/flying2.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/flying2.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/gem.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -1008,10 +1008,10 @@ CMakeFiles/graphics_asgn1.dir/src/gem.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/gem.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/gem.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/gem.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/gem.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/iceball.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -1100,10 +1100,10 @@ CMakeFiles/graphics_asgn1.dir/src/iceball.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/iceball.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/iceball.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/iceball.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/iceball.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/input.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -1192,9 +1192,9 @@ CMakeFiles/graphics_asgn1.dir/src/input.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/input.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/input.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/lines.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -1283,10 +1283,10 @@ CMakeFiles/graphics_asgn1.dir/src/lines.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/lines.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/lines.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/lines.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/lines.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/magnet.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -1375,10 +1375,10 @@ CMakeFiles/graphics_asgn1.dir/src/magnet.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/magnet.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/magnet.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/magnet.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/magnet.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/main.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -1467,23 +1467,23 @@ CMakeFiles/graphics_asgn1.dir/src/main.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/ball.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/balloon.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/beams.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/boomerang.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/coin.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/display.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/dragon.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/flying1.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/flying2.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/gem.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/lines.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/magnet.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/semicircle.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/world.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/ball.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/balloon.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/beams.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/boomerang.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/coin.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/display.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/dragon.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/flying1.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/flying2.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/gem.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/lines.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/magnet.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/semicircle.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/world.h
 CMakeFiles/graphics_asgn1.dir/src/nonedit.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -1572,9 +1572,9 @@ CMakeFiles/graphics_asgn1.dir/src/nonedit.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/nonedit.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/nonedit.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/other_handlers.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -1663,9 +1663,9 @@ CMakeFiles/graphics_asgn1.dir/src/other_handlers.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/other_handlers.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/other_handlers.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/semicircle.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -1754,14 +1754,14 @@ CMakeFiles/graphics_asgn1.dir/src/semicircle.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/semicircle.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/semicircle.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/semicircle.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/semicircle.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/timer.cpp.o
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
 CMakeFiles/graphics_asgn1.dir/src/world.cpp.o
  ../external/glew-1.13.0/include/GL/glew.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
@@ -1850,7 +1850,7 @@ CMakeFiles/graphics_asgn1.dir/src/world.cpp.o
  ../external/glm-0.9.7.1/glm/vec3.hpp
  ../external/glm-0.9.7.1/glm/vec4.hpp
  ../external/glm-0.9.7.1/glm/vector_relational.hpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/main.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/timer.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/world.cpp
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/src/world.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/main.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/timer.h
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/world.cpp
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/src/world.h

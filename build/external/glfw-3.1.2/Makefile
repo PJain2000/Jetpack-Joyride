@@ -48,10 +48,10 @@ RM = /usr/local/Cellar/cmake/3.13.2/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate"
+CMAKE_SOURCE_DIR = /Users/praffullittjain/Desktop/Jetpack-Joyride
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build"
+CMAKE_BINARY_DIR = /Users/praffullittjain/Desktop/Jetpack-Joyride/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,14 +126,14 @@ list_install_components/fast: list_install_components
 
 # The main all target
 all: cmake_check_build_system
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build" && $(CMAKE_COMMAND) -E cmake_progress_start "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/glfw-3.1.2/CMakeFiles/progress.marks"
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build" && $(MAKE) -f CMakeFiles/Makefile2 external/glfw-3.1.2/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles" 0
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/glfw-3.1.2/CMakeFiles/progress.marks
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build && $(MAKE) -f CMakeFiles/Makefile2 external/glfw-3.1.2/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build" && $(MAKE) -f CMakeFiles/Makefile2 external/glfw-3.1.2/clean
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build && $(MAKE) -f CMakeFiles/Makefile2 external/glfw-3.1.2/clean
 .PHONY : clean
 
 # The main clean target
@@ -143,22 +143,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build" && $(MAKE) -f CMakeFiles/Makefile2 external/glfw-3.1.2/preinstall
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build && $(MAKE) -f CMakeFiles/Makefile2 external/glfw-3.1.2/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build" && $(MAKE) -f CMakeFiles/Makefile2 external/glfw-3.1.2/preinstall
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build && $(MAKE) -f CMakeFiles/Makefile2 external/glfw-3.1.2/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build" && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 external/glfw-3.1.2/CMakeFiles/uninstall.dir/rule:
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build" && $(MAKE) -f CMakeFiles/Makefile2 external/glfw-3.1.2/CMakeFiles/uninstall.dir/rule
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build && $(MAKE) -f CMakeFiles/Makefile2 external/glfw-3.1.2/CMakeFiles/uninstall.dir/rule
 .PHONY : external/glfw-3.1.2/CMakeFiles/uninstall.dir/rule
 
 # Convenience name for target.
@@ -168,7 +168,7 @@ uninstall: external/glfw-3.1.2/CMakeFiles/uninstall.dir/rule
 
 # fast build rule for target.
 uninstall/fast:
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build" && $(MAKE) -f external/glfw-3.1.2/CMakeFiles/uninstall.dir/build.make external/glfw-3.1.2/CMakeFiles/uninstall.dir/build
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build && $(MAKE) -f external/glfw-3.1.2/CMakeFiles/uninstall.dir/build.make external/glfw-3.1.2/CMakeFiles/uninstall.dir/build
 .PHONY : uninstall/fast
 
 # Help Target
@@ -195,6 +195,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build" && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

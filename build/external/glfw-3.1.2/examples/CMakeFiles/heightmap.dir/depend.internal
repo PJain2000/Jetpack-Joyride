@@ -4,10 +4,10 @@
 external/glfw-3.1.2/examples/CMakeFiles/heightmap.dir/__/deps/glad.c.o
  ../external/glfw-3.1.2/deps/KHR/khrplatform.h
  ../external/glfw-3.1.2/deps/glad/glad.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/deps/glad.c
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/deps/glad.c
 external/glfw-3.1.2/examples/CMakeFiles/heightmap.dir/heightmap.c.o
  ../external/glfw-3.1.2/deps/GL/glext.h
  ../external/glfw-3.1.2/deps/KHR/khrplatform.h
  ../external/glfw-3.1.2/deps/glad/glad.h
  ../external/glfw-3.1.2/include/GLFW/glfw3.h
- /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glfw-3.1.2/examples/heightmap.c
+ /Users/praffullittjain/Desktop/Jetpack-Joyride/external/glfw-3.1.2/examples/heightmap.c

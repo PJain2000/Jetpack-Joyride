@@ -1,4 +1,4 @@
-# Install script for directory: /Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/assimp-3.0.1270/contrib/zlib
+# Install script for directory: /Users/praffullittjain/Desktop/Jetpack-Joyride/external/assimp-3.0.1270/contrib/zlib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

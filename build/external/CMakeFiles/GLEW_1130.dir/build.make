@@ -43,10 +43,10 @@ RM = /usr/local/Cellar/cmake/3.13.2/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate"
+CMAKE_SOURCE_DIR = /Users/praffullittjain/Desktop/Jetpack-Joyride
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build"
+CMAKE_BINARY_DIR = /Users/praffullittjain/Desktop/Jetpack-Joyride/build
 
 # Include any dependencies generated for this target.
 include external/CMakeFiles/GLEW_1130.dir/depend.make
@@ -59,16 +59,16 @@ include external/CMakeFiles/GLEW_1130.dir/flags.make
 
 external/CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.o: external/CMakeFiles/GLEW_1130.dir/flags.make
 external/CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.o: ../external/glew-1.13.0/src/glew.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object external/CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.o"
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external" && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.o   -c "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glew-1.13.0/src/glew.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object external/CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.o"
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.o   -c /Users/praffullittjain/Desktop/Jetpack-Joyride/external/glew-1.13.0/src/glew.c
 
 external/CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.i"
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external" && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glew-1.13.0/src/glew.c" > CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.i
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/praffullittjain/Desktop/Jetpack-Joyride/external/glew-1.13.0/src/glew.c > CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.i
 
 external/CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.s"
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external" && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external/glew-1.13.0/src/glew.c" -o CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.s
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/praffullittjain/Desktop/Jetpack-Joyride/external/glew-1.13.0/src/glew.c -o CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.s
 
 # Object files for target GLEW_1130
 GLEW_1130_OBJECTS = \
@@ -80,9 +80,9 @@ GLEW_1130_EXTERNAL_OBJECTS =
 external/libGLEW_1130.a: external/CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.o
 external/libGLEW_1130.a: external/CMakeFiles/GLEW_1130.dir/build.make
 external/libGLEW_1130.a: external/CMakeFiles/GLEW_1130.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library libGLEW_1130.a"
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external" && $(CMAKE_COMMAND) -P CMakeFiles/GLEW_1130.dir/cmake_clean_target.cmake
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external" && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/GLEW_1130.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/praffullittjain/Desktop/Jetpack-Joyride/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library libGLEW_1130.a"
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external && $(CMAKE_COMMAND) -P CMakeFiles/GLEW_1130.dir/cmake_clean_target.cmake
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/GLEW_1130.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 external/CMakeFiles/GLEW_1130.dir/build: external/libGLEW_1130.a
@@ -90,10 +90,10 @@ external/CMakeFiles/GLEW_1130.dir/build: external/libGLEW_1130.a
 .PHONY : external/CMakeFiles/GLEW_1130.dir/build
 
 external/CMakeFiles/GLEW_1130.dir/clean:
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external" && $(CMAKE_COMMAND) -P CMakeFiles/GLEW_1130.dir/cmake_clean.cmake
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external && $(CMAKE_COMMAND) -P CMakeFiles/GLEW_1130.dir/cmake_clean.cmake
 .PHONY : external/CMakeFiles/GLEW_1130.dir/clean
 
 external/CMakeFiles/GLEW_1130.dir/depend:
-	cd "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/external" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external" "/Users/praffullittjain/Semester-4/Graphics/Assignment 1/Graphics_Spring_19_Boilerplate/build/external/CMakeFiles/GLEW_1130.dir/DependInfo.cmake" --color=$(COLOR)
+	cd /Users/praffullittjain/Desktop/Jetpack-Joyride/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/praffullittjain/Desktop/Jetpack-Joyride /Users/praffullittjain/Desktop/Jetpack-Joyride/external /Users/praffullittjain/Desktop/Jetpack-Joyride/build /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external /Users/praffullittjain/Desktop/Jetpack-Joyride/build/external/CMakeFiles/GLEW_1130.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : external/CMakeFiles/GLEW_1130.dir/depend
 
